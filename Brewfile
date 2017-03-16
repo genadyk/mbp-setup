@@ -11,7 +11,6 @@ cask 'flux'
 cask 'atom'
 cask 'gimp'
 cask 'evernote'
-cask 'todoist'
 cask 'google-chrome'
 cask 'spectacle'
 cask 'vlc'
@@ -24,3 +23,4 @@ cask 'virtualbox'
 cask 'transmission'
 cask 'skype'
 
+mas 'Todoist', id: 585829637
