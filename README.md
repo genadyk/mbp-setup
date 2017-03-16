@@ -25,10 +25,10 @@ ZSH_THEME=pygmalion
     source ~/Projects/config/env.sh
 
 # env.sh
-
+``` bash
 #!/bin/zsh
 
-    ~~~~# PATH
+    # PATH
     export PATH="/usr/local/share/python:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
     export EDITOR='subl -w'
     # export PYTHONPATH=$PYTHONPATH
@@ -55,4 +55,5 @@ ZSH_THEME=pygmalion
 
     # Use sublimetext for editing config files
     alias zshconfig="subl ~/.zshrc"
-    alias envconfig="subl ~/Projects/config/env.sh"~~~~
+    alias envconfig="subl ~/Projects/config/env.sh"
+```
