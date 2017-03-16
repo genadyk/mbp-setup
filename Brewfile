@@ -5,6 +5,7 @@ brew 'python'
 brew 'zsh'
 brew 'zsh-completions'
 
+cask 'dbeaver-community'
 cask 'firefox'
 cask 'flux'
 cask 'atom'
