@@ -4,7 +4,7 @@
 # Install Mac App Store CLI
 brew install mas
 
-#Sign in
+# Sign in
 mas signin gena.kofman@gmail.com
 
 # Install using Brewfile
@@ -18,11 +18,10 @@ chsh -s /usr/local/bin/zsh
 edit the .zshrc by opening the file in a text editor
 
 ZSH_THEME=pygmalion
-
-    plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
-
-    # Add env.sh
-    source ~/Projects/config/env.sh
+plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
+    
+# Add env.sh
+source ~/Projects/config/env.sh
 
 # env.sh
 ``` bash
