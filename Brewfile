@@ -4,6 +4,7 @@ brew 'git'
 brew 'python'
 brew 'zsh'
 brew 'zsh-completions'
+brew 'node'
 
 cask 'dbeaver-community'
 cask 'firefox'
