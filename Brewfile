@@ -5,6 +5,7 @@ brew 'python'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'node'
+brew 'awscli'
 
 cask 'dbeaver-community'
 cask 'firefox'
