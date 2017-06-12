@@ -7,6 +7,7 @@ brew 'zsh-completions'
 brew 'node'
 brew 'awscli'
 
+cask 'vagrant'
 cask 'dbeaver-community'
 cask 'firefox'
 cask 'flux'
