@@ -6,6 +6,7 @@ brew 'zsh'
 brew 'zsh-completions'
 brew 'node'
 brew 'awscli'
+brew 'httpie'
 
 cask 'vagrant'
 cask 'dbeaver-community'
