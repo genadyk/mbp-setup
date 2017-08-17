@@ -28,5 +28,6 @@ cask 'docker'
 cask 'virtualbox'
 cask 'transmission'
 cask 'skype'
+cask 'visual-studio-code'
 
-mas 'Todoist', id: 585829637
+
